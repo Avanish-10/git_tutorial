@@ -8,3 +8,5 @@ console.log('--amend');
 // git log --all --graph
 // git log --all 
 // git config --global alias.s "status"
+// git remote add "Repo name" "link"
+// git push "Repo name" "branch"
